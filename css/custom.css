@@ -1,0 +1,7 @@
+.table>:not(:first-child) {
+  border-top: none !important;
+}
+
+.product{
+  color: green !important;
+}
