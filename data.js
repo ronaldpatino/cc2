@@ -27,8 +27,8 @@ const products = [
         "lastUpdated": formatDate(new Date())
     },
     {
-        "id": "1ce7c291-f353-422f-b822-33a031faa2cf",
-        "code": "ACC3",
+        "id": "2ce7c291-f353-422f-b822-33a031faa2cf",
+        "code": "ACC4",
         "product": "Banana green tip",
         "package": "40 LB",
         "units": "2,592,335",
